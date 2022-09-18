@@ -1,0 +1,24 @@
+footer {
+  height: 100px;
+  margin: 40px auto;
+  padding: 30px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: rgb(248, 252, 252);
+  border: 2px solid rgba(247, 243, 243, 0.907);
+
+}
+
+#bottom_text span a {
+  text-decoration-color: blue;
+}
+#bottom_text {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+footer a {
+  color: blue;
+}
+
+
