@@ -57,7 +57,7 @@ footer{
   margin-top: 20px;
   padding-bottom: 15px;
   padding-top: 20px;
-  background-color: var(--dark-grey);
+  background-color:#edebeb;
   text-align: center;
 }
 
@@ -76,7 +76,7 @@ ul{
 }
 
 li {
-  color: blue;
+  color:black
 }
 
 .btn {
